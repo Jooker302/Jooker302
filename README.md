@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jooker302&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-
+![Snake animation](https://github.com/jooker302/jooker302/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <hr>
