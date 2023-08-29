@@ -10,9 +10,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jooker302&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jooker302&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jooker302&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Jooker302/stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/jooker302/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jooker302/stats/master/generated/languages.svg#gh-light-mode-only)<br/>
+![](https://raw.githubusercontent.com/jooker302/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jooker302/stats/master/generated/overview.svg#gh-light-mode-only)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jooker302&theme=radical&no-frame=false&no-bg=true&margin-w=4)
