@@ -31,3 +31,11 @@
   Total Visitors on Joker's Profile<br>
   <img src="https://profile-counter.glitch.me/Jooker302/count.svg" />
 </p> 
+
+![snake gif light mode](https://github.com/Jooker302/snake/blob/output/github-snake.svg)
+
+<!-- Display dark mode snake GIF -->
+<picture>
+  <source srcset="https://github.com/Jooker302/snake/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/Jooker302/snake/blob/output/github-snake.svg" alt="snake gif">
+</picture>
