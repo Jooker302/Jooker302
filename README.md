@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I am currently working on Laravel and Node JS<br>🌱 I’m currently learning NextJs and Tailwand CSS<br>👀 My Portfolio (https://portfolio-seven-lemon-33.vercel.app)
+🎓 Undergraduate<br>
+🔭 Working on Laravel, PHP and Node JS<br>
+💻 Intermediate in NextJs and Tailwand CSS<br>
+🌱 Currently learning Blockchain<br>
+😍 Interested in AI and Game Development<br>
+👀 My Portfolio (https://portfolio-seven-lemon-33.vercel.app)
 
 
 ## 🌐 Socials:
