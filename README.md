@@ -15,7 +15,6 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=jooker302&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jooker302&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jooker302&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=CSS,HTML&langs_count=8)
 
