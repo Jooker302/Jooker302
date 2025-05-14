@@ -4,7 +4,7 @@
 💻 Intermediate in NextJs and Tailwand CSS<br>
 🌱 Currently learning Blockchain<br>
 😍 Interested in AI and Game Development<br>
-👀 My Portfolio (https://portfolio-seven-lemon-33.vercel.app)
+👀 My Portfolio (https://www.omer-dev.com)
 
 
 ## 🌐 Socials:
