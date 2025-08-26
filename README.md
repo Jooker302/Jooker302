@@ -1,5 +1,4 @@
 # 💫 About Me:
-🎓 Undergraduate<br>
 🔭 Working on Laravel, PHP and Node JS<br>
 💻 Intermediate in NextJs and Tailwand CSS<br>
 🌱 Currently learning Blockchain<br>
