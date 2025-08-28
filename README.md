@@ -30,8 +30,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <hr>
 <p align="center"> 
-  Total Visitors on Joker's Profile<br>
-  <img src="https://profile-counter.glitch.me/Jooker302/count.svg" />
+  Total Visitors on Omer's Profile<br>
+  <img src="https://profile-counter.glitch.me/i-omer6637/count.svg" />
 </p> 
 
 
