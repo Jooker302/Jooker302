@@ -27,12 +27,5 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<hr>
-<p align="center"> 
-  Total Visitors on Omer's Profile<br>
-  <img src="https://profile-counter.glitch.me/i-omer6637/count.svg" />
-</p> 
-
 
 ![snake gif](https://github.com/Jooker302/snake/blob/output/github-snake-dark.svg)
