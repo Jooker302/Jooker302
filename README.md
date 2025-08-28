@@ -14,12 +14,12 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jooker302&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jooker302&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=CSS,HTML&langs_count=8)
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-omer6637&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-omer6637&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=CSS,HTML&langs_count=8)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jooker302&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=i-omer6637&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -28,4 +28,4 @@
 
 
 
-![snake gif](https://github.com/Jooker302/snake/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/i-omer6637/snake/blob/output/github-snake-dark.svg)
